@@ -1,0 +1,24 @@
+{
+  "name": "Attack Aircraft Simulator",
+  "short_name": "A10 Sim",
+  "description": "Attack aircraft simulator game",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#242424",
+  "theme_color": "#242424",
+  "icons": [
+    {
+      "src": "index.icon.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "index.apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
